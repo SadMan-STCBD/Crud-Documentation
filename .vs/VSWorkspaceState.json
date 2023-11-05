@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BlazorApp",
+    "\\BlazorApp\\Client\\Shared",
+    "\\BlazorApp\\Server",
+    "\\BlazorApp\\Server\\bin",
+    "\\BlazorApp\\Server\\bin\\Debug",
+    "\\BlazorApp\\Server\\Controllers",
+    "\\BlazorApp\\Server\\Interfaces",
+    "\\BlazorApp\\Server\\Models",
+    "\\BlazorApp\\Server\\Services"
+  ],
+  "SelectedNode": "\\BlazorApp\\Server\\Controllers\\WeatherForecastController.cs",
+  "PreviewInSolutionExplorer": false
+}
